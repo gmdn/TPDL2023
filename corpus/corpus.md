@@ -1,5 +1,7 @@
 #  Old-French Alexander corpus 
 
+This is the list of volumes that were used as the Old-French Alexander corpus for this paper.
+
 1.	Armstrong et al. (eds.), The Medieval French “Roman d’Alexandre”, 7 voll., Princeton UP, Princeton (1937-1976).
 
 2.	Short (ed.), The Anglo-Norman "Alexander" ("Le roman de toute chevalerie") by Thomas of Kent, Anglo-Norman Text Society, London (1976-1977).

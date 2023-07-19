@@ -1,0 +1,38 @@
+XVi LE ROMAN D'ALEXANDRE: ARSENAL AND VENICE VERSIONS
+The digraph æ occurs sporadically in B and À and represents always an e, or
+an a written for an e; it is retained in the texts in all cases where it is present
+in the manuscript.i3
+The writing for B of words with initial es plus consonant indicates that e
+should be written wherever practicable, but in cases of the type sa spee 670, la
+scriture 4300 the word division has been made before the s;: cf. also lo steüst
+2236.
+Abbreviations in B are resolved as follows: superposed bar as m, but as n
+before non-labials within a word (but as en in comce 4441 and in m 8688, as m
+in hüe passim, as r in mäbrine 208 and in côrant 7685): e with superposed bar as
+est when the context so demands; 9 as com, but as con before non-labials within
+a word; 9 with superposed bar as contra (635, etc.): final 9 as us (desus 5289);
+& as e before consonants and as et before vowels (so when the word is written
+out in the manuscript, except that when initial in a line the word is sporadically
+written et even before a consonant); x as us (except in the word dux) ; p with bar
+traversing stem as per (the abbreviation can often be identified as representing
+per—s0 23, 697, 870, etc.—but never definitely as representing par or por);
+ch’r as chivalier. Abbreviations of proper names and numerals are kept. Sporadic
+abbreviations: superposed bar with downward hook as e (prise 9, Arcade 1777,
+first e in demandee 1794), also as us (Neptenabus 77), and as et (prophete 5857);
+a sign resembling a reversed c with a downward stroke appended as r (cargiez
+2300, per 2779, nardiers 5943); a superposed undulating stroke as ra (grant
+5712, contra 297, graver 7938).
+Abbreviations in À are resolved as follows: superposed bar as m, but as n
+before non-labials within a word (but hôe as home, & as com, it as ment, and in
+Section 3 cô, cü as con, cun); 9 as com (but in Section 3 as con when it has
+meaning ‘comme’); ce with superposed undulating stroke as contra; dt with a
+ligature and d’t as dunt; & as e (but Italian scribe as ef before vowels); m’t as
+ment; mlt and mol’t and ml with bar through or appended to / as molt; mult
+as muli; x as us (except dux 673, 5744, 5956, rex 6721, 6802, 6854, pax 440,
+brira 750, bex 1837, drux 2059, seixanta 3568); p with bar traversing stem as
+Per or as por; p with hook traversing stem as pro; p with superposed hook as
+por; ch’r as chivaler. Abbreviations of proper names and numerals are kept. For
+supplementary discussion of abbreviations see Commentary, $842-43.
+RE 2269, 3121, 5775, 5867, and À 1471, 1583, 1699, 1790, 1895, 6105, 6381,
+6477.
+

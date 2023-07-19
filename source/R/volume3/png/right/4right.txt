@@ -1,0 +1,52 @@
+ INTRODUCTION XV
+of the Alexandre de Paris!° version. When a reference to AdeP contains a deci-
+mal (such as AdeP 1v, 66.2), the stanza is absent from the critical edition of
+AdeP but is to be found in one or more of the manuseripts stemming from the
+AdeP version, Where no stanza correspondence is entered, the stanza is lacking
+in the respective version. Thus the absence of any parenthetical entry signifies
+that the stanza is present in one version only.
+In the text of À certain stanza numbers (298, 299, 346, 347, 352, 357, palimp-
+sest 433) are supplied in square brackets. These correspond to erasures or la-
+cunæ; the assignment of stanza numbers is made from the combined testimony
+of the other versions and of the vestiges of writing present in À. For details in
+regard to the individual stanzas, see below, Commentary and footnotes to the
+text.
+Continuous line numbering is given for each text. In the text of À, numbering
+with a decimal (4558.1, 4716.1, ete.) is used to designate lines which arenotby
+the regular scribe of the respective section of the manuscript. For detailed
+treatment of such lines, see Commentary. A set of asterisks is employed where
+there is a shift from one to another of the three principal À scribes (between
+folios 19 and 20, 89 and 90, 109 and 110), and in addition where a shift from the
+Italian scribe to one of the principal scribes coincides with an important break
+in the narrative (between folios 16 and 17). Italics are employed for material
+which is clearly not by the scribe of the section in question; for details see Com-
+mentary.
+It should be noted that facsimiles of folios 2vo-8ro and 88vo-89ro of À were
+reproduced by Paul Meyer in his AlGr, and that these serve to supplement the
+facsimiles available in the plates of the present volume.
+Establishment of the texts.—The à and j and the w and v have been distin-
+guished; capitalization has been introduced for proper names and for the initial
+letters of the lines; the standard diacritical marks have been supplied; words
+have been written separately, the practices which are followed in the critical
+edition of the AdeP version being as a rule observed; from time to time an ob-
+vious error has been corrected by the use of square or round bracketst! or by the
+relegation of the faulty reading to a footnote; in the case of doubtful readings,
+details are supplied in the footnotes. Apart from these minor deviations, the
+texts are presented as they stand in the Venice and Arsenal manuscripts, photo-
+stats of which have been supplemented by examination of the manuseripts
+themselves, and by an examination of À under the ultra-violet lamp.!? A certain
+number of emendations are suggested in the footnotes, especially in cases where
+a comparison with the readings in the companion text or in the AdeP version
+gives ground for faith in the emendation.
+A cedilla with ce is sometimes present in both B and À, frequently in conflict
+with present use of ç. This cedilla is in all cases retained and in addition the ç
+is employed wherever indicated by standard practice in text editing. In B the
+ç appears from time to time throughout the manuscript; in the Commentary,
+all occurrences of ç in À will be found listed.
+19 Hereaîfter referred to as AdeP.
+1 In the terminations of verb forms in À missing final letters are supplied in
+square brackets in some cases where they are an aid to interpretation, but es
+for est is always left unaltered, as it is almost a standard writing for À.
+1 Readings disclosed or confirmed by the use of the u.-v. are called attention
+to in the footnotes to À.
+
